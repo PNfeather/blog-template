@@ -11,5 +11,5 @@ module.exports = {
       // template 中的 title 标签需要是 <title><%= htmlWebpackPlugin.options.title %></title>
       title: '这是标题'
     }
-  },
+  }
 }
